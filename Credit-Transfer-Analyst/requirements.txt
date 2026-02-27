@@ -1,0 +1,8 @@
+google-adk
+google-generativeai
+pandas
+numpy
+scikit-learn
+uvicorn
+requests
+openpyxl
