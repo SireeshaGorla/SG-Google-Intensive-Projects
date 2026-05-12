@@ -1,3 +1,7 @@
+## Project Vision
+
+This project was created to explore how multi-agent systems and Agent-to-Agent (A2A) communication can improve credit transfer workflows in higher education, particularly for community colleges and student-serving institutions.
+
 # Module 1: Credit Transfer Analyst (Capstone)
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Certification-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/certification/badges/sireeshagorla/105)
@@ -18,3 +22,8 @@ This system automates the evaluation of external university course credits for t
 - **LLM**: Gemini 2.5 Flash Lite
 - **Framework**: Google Agent Development Kit (ADK)
 - **Environment**: Python, Jupyter, Uvicorn (Agent-to-Agent communication)
+  
+## License
+This project is licensed under the Apache 2.0 License.
+
+The goal of this project is to support innovation and interoperability in higher education systems while encouraging open collaboration and responsible use.
